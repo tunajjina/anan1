@@ -1,0 +1,33 @@
+table.reg
+{
+    height:710px;
+    width:800px;
+    background-color:white;
+    align:center;
+    color:black;
+}
+td.reg1
+{
+    font-weight:bold;
+    font-size:20px;
+    font-style:Forte;
+    font-family:Forte;
+    color:black;
+    first-letter:30px;
+}
+td.wo
+{
+    font-size:15px;
+    color:red;
+	font-family:centaur;
+}
+h3.suck
+{
+    font-weight:bold;
+    font-family:Andalus;
+    font-style:Andalus;
+    font-size:50px;
+    text-aligin:center;
+    color:#0033CC;
+    first-letter:60px;
+}

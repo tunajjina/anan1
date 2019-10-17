@@ -1,0 +1,58 @@
+
+table
+{
+    width:1370px;
+    height:200px;
+    background-color:#99CC33;
+    font-weight:bold;
+    font-family:bold;
+    font-size:25px;
+    font-style:bold;
+	padding-right: 82px;
+	
+}
+
+table.nav
+{
+    width:1370px;
+    height:50px;
+    background-color:black;
+    font-size:20px;
+	
+}
+    
+td.a
+{
+    font-weight:bold;
+    font-size:80px;
+    font-style:forte;
+    color:white;
+    first-letter:100px;
+    text-shadow:#000000 20px 20px 13px;
+    text-align:center;
+}
+td.b
+{
+    text-align:center;
+    color:white;
+    padding:2px;
+    border-right-color:red;
+    border-left-color:red;
+}
+
+p.h
+{
+    font-size:20px;
+    font-weight:bold;
+    first-letter:5px;
+    
+}
+a:link {
+		 color:white;
+	 text-decoration:none;
+	 }    /* unvisited link */
+     a:visited {color: #DCEFEE;text-decoration: none;} /* visited link */
+      a:hover {color: #663399;text-decoration:none;}   /* mouse over link */
+     a:active {color: #FFF7B9;text-decoration: none;}  /* selected link */
+
+

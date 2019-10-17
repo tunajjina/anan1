@@ -1,0 +1,12 @@
+CREATE TABLE `collage`(
+      `id` VARCHAR(10) NULL DEFAULT NULL,
+       `name` VARCHAR(70) NULL DEFAULT NULL,
+        `cs` INT(10) NULL DEFAULT NULL,
+        `it` INT(10) NULL DEFAULT NULL,
+        `ee` INT(10) NULL DEFAULT NULL,
+        `ece` INT(10) NULL DEFAULT NULL,
+         `me` INT(10) NULL DEFAULT NULL,
+          PRIMARY KEY(`id`)
+)
+COLLATE='latin1_swedish_ci'
+ENGINE=MyISAM;

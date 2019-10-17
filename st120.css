@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+p.pro
+{
+    color:red;
+	
+    font-size: 20px;
+    font-style:bold,italic;
+}
+

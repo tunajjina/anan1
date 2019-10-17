@@ -1,0 +1,23 @@
+
+
+table.vw
+{
+
+    color:black;
+    font-style:bold;
+    font-family:Brianittc-bold;
+    font-size:15px;
+	background-color : #eaeaea;
+	background-image : url("http://localhost/sss/primg/logo.jpg");
+background-attachment : fixed;
+background-position : center;
+background-repeat :no-repeat;
+    
+}
+p.vw1
+{
+    color:red;
+    font-size:40px;
+    font-style:bold,italic;
+}
+

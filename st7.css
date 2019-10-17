@@ -1,0 +1,15 @@
+table.vw
+{
+
+    color:black;
+    font-style:bold;
+    font-family:bold;
+    font-size:15px;
+    background-color:white;
+}
+p.vw1
+{
+    color:red;
+    font-size:40px;
+    font-style:bold,italic;
+}

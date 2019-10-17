@@ -1,0 +1,10 @@
+
+CREATE TABLE `rank` (
+	`roll` INT(10) NULL DEFAULT NULL,
+	`rank` INT(10) NULL DEFAULT NULL,
+        PRIMARY KEY (`roll`)
+)
+COLLATE='latin1_swedish_ci'
+ENGINE=MyISAM;
+
+

@@ -1,0 +1,9 @@
+CREATE TABLE `report` (
+	`rollno` INT(10) NULL DEFAULT NULL,
+	`name` VARCHAR(70) NULL DEFAULT NULL,
+	`time` VARCHAR(20) NULL DEFAULT NULL,
+	`date` VARCHAR(50) NULL DEFAULT NULL,
+	PRIMARY KEY (`rollno`)
+)
+COLLATE='latin1_swedish_ci'
+ENGINE=MyISAM;

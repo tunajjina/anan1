@@ -1,0 +1,201 @@
+BODY {
+	SCROLLBAR-ARROW-COLOR: #e9eef5; MARGIN-TOP: 0px; SCROLLBAR-DARKSHADOW-COLOR: #95aad1; SCROLLBAR-BASE-COLOR: #2d57a3; FONT-FAMILY: verdana, Arial, Helvetica, sans-serif; MARGIN-LEFT: 0px; FONT-SIZE: 12px; SCROLLBAR-TRACK-COLOR: #c0cde4; MARGIN-RIGHT: 0px
+}
+.button {
+	FONT-FAMILY: verdana; FONT-SIZE: 12px; FONT-WEIGHT: bold
+}
+.adminbutton {
+	FONT-FAMILY: verdana; FONT-WEIGHT: bold
+}
+.table {
+	BORDER-COLLAPSE: collapse; FONT-SIZE: 12px
+}
+.tablebox {
+	BACKGROUND-COLOR: #a4a6ae; BORDER-COLLAPSE: collapse; FONT-SIZE: 12px
+}
+.subtablebox {
+	BACKGROUND-COLOR: #ffffff; WIDTH: 100%; FONT-SIZE: 12px
+}
+.roundtable {
+	BORDER-COLLAPSE: collapse; FONT-SIZE: 12px; border-radius: 1em
+}
+.menutable {
+	COLOR: #4266b4; FONT-SIZE: 0.3cm; CURSOR: hand
+}
+.menutablerow {
+	BACKGROUND-COLOR: #d4ddee
+}
+.selectmenurow {
+	BACKGROUND-COLOR: #1d48a7; COLOR: #ffffff
+}
+.genTHRow {
+	BACKGROUND-COLOR: #a8b9d9; HEIGHT: 0.5cm; COLOR: #2d57a4
+}
+.tablecell {
+	BACKGROUND-COLOR: #aebfdc; COLOR: #ffffff; FONT-WEIGHT: bold
+}
+.tablerow {
+	BACKGROUND-COLOR: #e3e8f3; FONT-SIZE: 12px
+}
+.dropdowntable {
+	BORDER-BOTTOM: #999999 0.01cm solid; BORDER-LEFT: #999999 0.01cm solid; BACKGROUND-COLOR: #cccccc; BORDER-COLLAPSE: collapse; FONT-SIZE: 12px; BORDER-TOP: #999999 0.01cm solid; BORDER-RIGHT: #999999 0.01cm solid
+}
+SELECT {
+	FONT-FAMILY: verdana; FONT-SIZE: 12px
+}
+.border {
+	BORDER-BOTTOM: #ea9b24 0.05cm solid; BORDER-LEFT: #ea9b24 0.05cm solid; BORDER-TOP: #ea9b24 0.05cm solid; BORDER-RIGHT: #ea9b24 0.05cm solid
+}
+A {
+	COLOR: rgb(0,51,204)
+}
+A:hover {
+	FONT-WEIGHT: bold
+}
+A:visited {
+	COLOR: rgb(0,51,204)
+}
+A.list:hover {
+	COLOR: rgb(255,255,255); FONT-WEIGHT: bold
+}
+A.list {
+	TEXT-DECORATION: none
+}
+.bodydiv {
+	BORDER-BOTTOM: #003f7d 2px solid; BORDER-LEFT: #003f7d 2px solid; MARGIN: 1%; BORDER-TOP: #003f7d 2px solid; BORDER-RIGHT: #003f7d 2px solid
+}
+#dropmenudiv {
+	Z-INDEX: 100; BORDER-BOTTOM: black 0px solid; POSITION: absolute; BORDER-LEFT: black 1px solid; FONT: 12px/18px Verdana; BORDER-TOP: black 1px solid; BORDER-RIGHT: black 1px solid
+}
+#dropmenudiv A {
+	BORDER-BOTTOM: black 1px solid; PADDING-BOTTOM: 1px; TEXT-INDENT: 3px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; DISPLAY: block; FONT-WEIGHT: bold; TEXT-DECORATION: none; PADDING-TOP: 1px
+}
+#dropmenudiv A:hover {
+	BACKGROUND-COLOR: rgb(255,204,0)
+}
+.formfieldheading {
+	BACKGROUND-COLOR: rgb(153,153,153); COLOR: rgb(255,255,255)
+}
+.admintableheading {
+	BACKGROUND-COLOR: #a4a6ae; COLOR: rgb(255,255,255); FONT-WEIGHT: bold
+}
+.tablecaptionrow {
+	BACKGROUND-COLOR: #5a75a0; COLOR: rgb(255,255,255); FONT-WEIGHT: bold
+}
+.dbtableheading {
+	BACKGROUND-COLOR: #bdbfc3; COLOR: rgb(255,255,255); FONT-WEIGHT: bold
+}
+.dbtablerow {
+	BACKGROUND-COLOR: #d8dbe0
+}
+.admindbtablerow {
+	BACKGROUND-COLOR: #2d3ca2; COLOR: rgb(255,255,255); FONT-WEIGHT: bold
+}
+.divheading {
+	BORDER-BOTTOM: #003f7d 2px solid; TEXT-ALIGN: center; PADDING-BOTTOM: 5px; WIDTH: 100%; HEIGHT: 20px; FONT-WEIGHT: bold; PADDING-TOP: 7px
+}
+.admindivheading {
+	PADDING-BOTTOM: 0.1cm; BACKGROUND-COLOR: #2f58a4; PADDING-LEFT: 0.1cm; WIDTH: 100%; PADDING-RIGHT: 0.1cm; HEIGHT: 0.7cm; COLOR: #ffffff; FONT-SIZE: small; FONT-WEIGHT: bold; PADDING-TOP: 0.1cm
+}
+.note {
+	COLOR: rgb(153,0,0); FONT-SIZE: 0.3cm
+}
+.headnote {
+	COLOR: #7e95d5; FONT-SIZE: 0.32cm
+}
+.flashnote {
+	COLOR: red
+}
+.footnote {
+	COLOR: rgb(102,102,153); FONT-SIZE: 0.3cm
+}
+.viewrow {
+	BACKGROUND-COLOR: #e1e1ff
+}
+.admineditlist {
+	PADDING-LEFT: 0.2cm; PADDING-RIGHT: 0.2cm; PADDING-TOP: 0.2cm
+}
+.bl {
+	WIDTH: 20em; BACKGROUND: url(images/bl1.gif) #bcc8d6 no-repeat 0px 100%
+}
+.br {
+	BACKGROUND: url(images/br1.gif) no-repeat 100% 100%
+}
+.tl {
+	BACKGROUND: url(images/tl1.gif) no-repeat 0px 0px
+}
+.tr {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; BACKGROUND: url(images/tr1.gif) no-repeat 100% 0px; PADDING-TOP: 10px
+}
+.clear {
+	HEIGHT: 1px; FONT-SIZE: 1px
+}
+#divbackimage1 {
+	BACKGROUND-IMAGE: url(images/headpic2.gif); BACKGROUND-REPEAT: repeat-x
+}
+#divbackimage2 {
+	BACKGROUND-IMAGE: url(images/headbox.jpg); BACKGROUND-REPEAT: repeat-x
+}
+#divbackimg3 {
+	BACKGROUND-IMAGE: url(images/headround.jpg); BACKGROUND-REPEAT: no-repeat
+}
+#headimg {
+	BACKGROUND-IMAGE: url(images/upsc_masthead.jpg); BACKGROUND-REPEAT: no-repeat
+}
+.showspan {
+	CURSOR: hand
+}
+.linkspan {
+	COLOR: rgb(0,51,204); CURSOR: hand
+}
+.headingspan {
+	COLOR: rgb(51,51,204)
+}
+.seldate {
+	BACKGROUND-COLOR: #cad5e7
+}
+.actionmsg {
+	COLOR: rgb(102,153,204); FONT-SIZE: 12px
+}
+.errorbox {
+	BORDER-BOTTOM: rgb(204,51,0) 0.05cm solid; BORDER-LEFT: rgb(204,51,0) 0.05cm solid; PADDING-BOTTOM: 0.2cm; PADDING-LEFT: 0.2cm; PADDING-RIGHT: 0.2cm; COLOR: rgb(51,51,102); BORDER-TOP: rgb(204,51,0) 0.05cm solid; BORDER-RIGHT: rgb(204,51,0) 0.05cm solid; PADDING-TOP: 0.2cm
+}
+.Pageheading {
+	MARGIN-TOP: 0.8cm; FONT-SIZE: 0.45cm
+}
+.mrgntohead {
+	MARGIN-TOP: 1.5cm
+}
+CAPTION {
+	PADDING-BOTTOM: 0.1cm; PADDING-LEFT: 0.1cm; PADDING-RIGHT: 0.1cm; PADDING-TOP: 0.1cm
+}
+.selInstruct {
+	BACKGROUND-COLOR: #cdd8f7; COLOR: #7e95d5
+}
+.verifyRow {
+	BACKGROUND-COLOR: #003f7d; COLOR: #ffffff; FONT-WEIGHT: bold
+}
+.verifyTable {
+	BORDER-BOTTOM: #ffffff solid; BORDER-LEFT: #ffffff solid; BACKGROUND-COLOR: #e3e8f3; BORDER-TOP: #ffffff solid; BORDER-RIGHT: #ffffff solid
+}
+.declaration {
+	BORDER-BOTTOM: #ffffff 0.05cm solid; BORDER-LEFT: #ffffff 0.05cm solid; PADDING-BOTTOM: 0.2cm; BACKGROUND-COLOR: #003f7d; PADDING-LEFT: 0.5cm; WIDTH: 5cm; PADDING-RIGHT: 0.5cm; HEIGHT: 8px; COLOR: #ffffff; BORDER-TOP: #ffffff 0.05cm solid; BORDER-RIGHT: #ffffff 0.05cm solid; PADDING-TOP: 0.2cm
+}
+.smallbutton {
+	BORDER-BOTTOM: rgb(51,51,102) 0.01cm solid; BORDER-LEFT: rgb(51,51,102) 0.01cm solid; BACKGROUND-COLOR: #2f58a4; FONT-FAMILY: verdana; HEIGHT: 0.5cm; COLOR: #ffffff; FONT-SIZE: xx-small; BORDER-TOP: rgb(51,51,102) 0.01cm solid; CURSOR: hand; FONT-WEIGHT: bold; BORDER-RIGHT: rgb(51,51,102) 0.01cm solid
+}
+.childwspan {
+	BORDER-BOTTOM: #2f58a4 0.01cm solid; BORDER-LEFT: #2f58a4 0.01cm solid; PADDING-BOTTOM: 0.05cm; BACKGROUND-COLOR: #cdd8f7; PADDING-LEFT: 0.05cm; PADDING-RIGHT: 0.05cm; COLOR: #7e95d5; BORDER-TOP: #2f58a4 0.01cm solid; BORDER-RIGHT: #2f58a4 0.01cm solid; PADDING-TOP: 0.05cm
+}
+.noDataMsgBox {
+	BORDER-BOTTOM: #3c5087 0.02cm solid; BORDER-LEFT: #3c5087 0.02cm solid; PADDING-BOTTOM: 0.2cm; BACKGROUND-COLOR: #e3e8f3; PADDING-LEFT: 0.2cm; WIDTH: 50%; PADDING-RIGHT: 0.2cm; HEIGHT: 1cm; COLOR: #243462; BORDER-TOP: #3c5087 0.02cm solid; FONT-WEIGHT: bold; BORDER-RIGHT: #3c5087 0.02cm solid; PADDING-TOP: 0.2cm
+}
+.validationerror {
+	BORDER-BOTTOM: rgb(204,51,0) 0.05cm solid; BORDER-LEFT: rgb(204,51,0) 0.05cm solid; PADDING-BOTTOM: 0.2cm; PADDING-LEFT: 0.2cm; PADDING-RIGHT: 0.2cm; FONT-SIZE: 0.4cm; BORDER-TOP: rgb(204,51,0) 0.05cm solid; FONT-WEIGHT: bold; BORDER-RIGHT: rgb(204,51,0) 0.05cm solid; PADDING-TOP: 0.2cm
+}
+.errormsgbox {
+	BORDER-BOTTOM: rgb(204,51,0) 0.02cm solid; BORDER-LEFT: rgb(204,51,0) 0.02cm solid; PADDING-BOTTOM: 0.1cm; MARGIN-TOP: 1cm; PADDING-LEFT: 0.1cm; PADDING-RIGHT: 0.1cm; COLOR: rgb(51,51,102); MARGIN-LEFT: 0.5cm; BORDER-TOP: rgb(204,51,0) 0.02cm solid; MARGIN-RIGHT: 0.5cm; BORDER-RIGHT: rgb(204,51,0) 0.02cm solid; PADDING-TOP: 0.1cm
+}
+.tableprint {
+	BORDER-COLLAPSE: collapse; FONT-FAMILY: verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 12px
+}

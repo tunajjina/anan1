@@ -1,0 +1,31 @@
+#rotate
+ {
+-webkit-transform : rotate(20deg);
+-moz-transform : rotate(20deg);
+-ms-transform : rotate(20deg);
+-o-transform : rotate(20deg);
+transform : rotate(20deg);
+background : #00ffcc;
+top : 100px;
+left : 50px;
+}
+#scale
+{
+-webkit-transform : scale(0.5);
+-moz-transform : scale(0.5);
+-ms-transform : scale(0.5);
+-o-transform : scale(0.5);
+transform : scale(0.5);
+top : 400px;
+left : 50px;
+}
+#perspective
+{
+top : 200px;
+left : 200px;
+position : absolute;
+-webkit-transform : perspective(500px) rotateY(75deg);
+-moz-transform : perspective(500px) rotateY(75deg);
+-ie-transform : perspective(500px) rotateY(75deg);
+transform : perspective(500px) rotateY(75deg);
+}

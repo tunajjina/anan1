@@ -1,0 +1,55 @@
+h1,h2,h3
+{
+    font-weight:bold;
+    font-family:italic,bold;
+    color:#0000;
+    background-color:green;
+    font-size:20px;
+}
+h1.s1
+{
+    background-color:red;
+}
+h2.s2
+{
+    background-color:white;
+
+}
+table
+{
+    width:400px;
+    height:500px;
+    boder:5px;
+    border-color:red;
+    border-style:bold;
+    background-color:ass;
+    border-left-color:green;
+    border-right-color:blue;
+    border-collapse:20px;
+
+}
+body
+{
+     background-image:joy.jpg;
+}
+p
+  {
+       font-size:40px;
+       text-shadow : green 10px 10px 3px;
+       direction : ltr;
+  }
+  th
+  {
+       width:100px;
+      font-weight:bold;
+      color:#00000;
+      background-color:lightblue;
+  }
+  td
+  {
+      font-weight:algerian;
+      font-size:5px;
+      color:black;
+      background-color:lightpink;
+      padding:2px;
+  }

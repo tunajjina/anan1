@@ -1,0 +1,22 @@
+table.adcontrol
+{
+	background-color: #99CC33;
+	width: 1370px;
+	height: 200px;
+}
+h2.ad
+{
+    color:red;
+    font-style:bold;
+    font-size:30px;
+    first-letter:40px;
+}
+td.ad1
+{
+     padding:20px;
+    width:457px;
+    font-size:20px;
+    font-style:bold;
+    color:red;
+    first-letter:8px;
+}

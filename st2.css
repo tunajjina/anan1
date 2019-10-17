@@ -1,0 +1,20 @@
+table.admin
+{
+    align:center;
+    height:200px;
+    width:200px;
+    border-right-color:red;
+    border-left-color:red;
+    border-top-color:red;
+    border-bottom-color:red;
+    background-color:#FFFFCC;
+}
+p.admin1
+{
+    font-weight:bold;
+    font-style:Bernard MT Condensed;
+    font-family:Bernard MT Condensed;
+    font-size:20px;
+    first-letter:8px;
+    color:#000000;
+}

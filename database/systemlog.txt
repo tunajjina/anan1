@@ -1,0 +1,4 @@
+CREATE TABLE `systemlog`(`adminid` VARCHAR(50) NULL DEFAULT NULL,
+                      'date' VARCHAR(40) NULL DEFAULT NULL,
+                       'logouttime' VARCHAR(50) NULL DEFAULT NULL,
+                        

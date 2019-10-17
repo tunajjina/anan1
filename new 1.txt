@@ -1,0 +1,17 @@
+
+<SCRIPT language="JavaScript1.2">
+function openwindow()
+{
+	window.open("password.php","mywindow","menubar=1,resizable=1,width=730,height=550");
+}
+</script>
+<script language="javascript">
+function setstyle(x)
+{
+document.getElementById(x).style.background="#33FF33";
+}
+function setstyle1(z)
+{
+document.getElementById(z).style.background="white";
+}
+</script>

@@ -1,0 +1,20 @@
+table.footer
+{
+    width:1370px;
+    height:7px;
+    background-color:#99CC33;
+    font-weight:bold;
+    font-family:Comic Sans MS;
+    font-size:7px;
+    font-style:bold;
+    bordercolor:black;
+    border-color:black;
+}
+
+h1
+{
+	font-style: Comic Sans MS;
+	font-weight: bold;
+	
+	color: #000;
+}

@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+span.span
+{
+    
+	color:#609;
+    font-size: 20px;
+    font-style:bold,italic;
+}
